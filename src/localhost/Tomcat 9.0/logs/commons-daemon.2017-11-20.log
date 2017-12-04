@@ -1,0 +1,71 @@
+[2017-11-20 21:46:20] [info]  [ 6700] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-11-20 21:46:20] [info]  [ 6700] Service Tomcat9 name Apache Tomcat 9.0 Tomcat9
+[2017-11-20 21:46:20] [error] [ 6700] ”казанна€ служба уже существует.
+[2017-11-20 21:46:20] [error] [ 6700] Failed installing 'Tomcat9' service
+[2017-11-20 21:46:20] [error] [ 6700] ”казанна€ служба уже существует.
+[2017-11-20 21:46:20] [error] [ 6700] Commons Daemon procrun failed with exit value: 8 (Failed to install service)
+[2017-11-20 21:46:20] [error] [ 6700] ”казанна€ служба уже существует.
+[2017-11-20 21:46:26] [info]  [ 6796] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-11-20 21:46:26] [info]  [ 6796] Service Tomcat9 name Apache Tomcat 9.0 Tomcat9
+[2017-11-20 21:46:26] [error] [ 6796] ”казанна€ служба уже существует.
+[2017-11-20 21:46:26] [error] [ 6796] Failed installing 'Tomcat9' service
+[2017-11-20 21:46:26] [error] [ 6796] ”казанна€ служба уже существует.
+[2017-11-20 21:46:26] [error] [ 6796] Commons Daemon procrun failed with exit value: 8 (Failed to install service)
+[2017-11-20 21:46:26] [error] [ 6796] ”казанна€ служба уже существует.
+[2017-11-20 21:46:27] [info]  [ 5924] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-11-20 21:46:27] [info]  [ 5924] Service Tomcat9 name Apache Tomcat 9.0 Tomcat9
+[2017-11-20 21:46:27] [error] [ 5924] ”казанна€ служба уже существует.
+[2017-11-20 21:46:27] [error] [ 5924] Failed installing 'Tomcat9' service
+[2017-11-20 21:46:27] [error] [ 5924] ”казанна€ служба уже существует.
+[2017-11-20 21:46:27] [error] [ 5924] Commons Daemon procrun failed with exit value: 8 (Failed to install service)
+[2017-11-20 21:46:27] [error] [ 5924] ”казанна€ служба уже существует.
+[2017-11-20 21:46:28] [info]  [ 3144] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-11-20 21:46:28] [info]  [ 3144] Service Tomcat9 name Apache Tomcat 9.0 Tomcat9
+[2017-11-20 21:46:28] [error] [ 3144] ”казанна€ служба уже существует.
+[2017-11-20 21:46:28] [error] [ 3144] Failed installing 'Tomcat9' service
+[2017-11-20 21:46:28] [error] [ 3144] ”казанна€ служба уже существует.
+[2017-11-20 21:46:28] [error] [ 3144] Commons Daemon procrun failed with exit value: 8 (Failed to install service)
+[2017-11-20 21:46:28] [error] [ 3144] ”казанна€ служба уже существует.
+[2017-11-20 21:46:30] [info]  [ 5540] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-11-20 21:46:30] [info]  [ 5540] Updating service...
+[2017-11-20 21:46:30] [info]  [ 5540] Service 'Tomcat9' updated
+[2017-11-20 21:46:30] [info]  [ 5540] Update service finished.
+[2017-11-20 21:46:30] [info]  [ 5540] Commons Daemon procrun finished
+[2017-11-20 21:46:31] [info]  [ 6884] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-11-20 21:46:31] [info]  [ 6884] Updating service...
+[2017-11-20 21:46:31] [info]  [ 6884] Service 'Tomcat9' updated
+[2017-11-20 21:46:31] [info]  [ 6884] Update service finished.
+[2017-11-20 21:46:31] [info]  [ 6884] Commons Daemon procrun finished
+[2017-11-20 21:46:31] [info]  [ 2396] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-11-20 21:46:31] [info]  [ 2396] Updating service...
+[2017-11-20 21:46:31] [info]  [ 2396] Service 'Tomcat9' updated
+[2017-11-20 21:46:31] [info]  [ 2396] Update service finished.
+[2017-11-20 21:46:31] [info]  [ 2396] Commons Daemon procrun finished
+[2017-11-20 21:46:34] [info]  [ 6184] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-11-20 21:46:34] [info]  [ 6184] Running 'Tomcat9' Service...
+[2017-11-20 21:46:34] [info]  [ 3212] Starting service...
+[2017-11-20 21:46:39] [info]  [ 3212] Service started in 5402 ms.
+[2017-11-20 22:14:30] [info]  [ 8156] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-11-20 22:14:30] [info]  [ 8156] Debugging 'Tomcat9' service...
+[2017-11-20 22:14:30] [info]  [ 8156] Starting service...
+[2017-11-20 22:14:33] [info]  [ 8156] Service started in 2443 ms.
+[2017-11-20 22:14:35] [info]  [ 8156] Debug service finished with exit code 0
+[2017-11-20 22:14:35] [info]  [ 8156] Commons Daemon procrun finished
+[2017-11-20 22:14:54] [info]  [ 7908] Stopping service...
+[2017-11-20 22:14:55] [info]  [ 7908] Service stop thread completed.
+[2017-11-20 22:14:56] [info]  [ 6184] Run service finished.
+[2017-11-20 22:14:56] [info]  [ 6184] Commons Daemon procrun finished
+[2017-11-20 22:16:08] [info]  [ 6260] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-11-20 22:16:08] [info]  [ 6260] Debugging 'Tomcat9' service...
+[2017-11-20 22:16:08] [info]  [ 6260] Starting service...
+[2017-11-20 22:16:10] [info]  [ 6260] Service started in 1370 ms.
+[2017-11-20 22:16:11] [info]  [ 6260] Debug service finished with exit code 0
+[2017-11-20 22:16:11] [info]  [ 6260] Commons Daemon procrun finished
+[2017-11-20 22:55:54] [info]  [ 7112] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-11-20 22:55:54] [info]  [ 7112] Running 'Tomcat9' Service...
+[2017-11-20 22:55:54] [info]  [ 7384] Starting service...
+[2017-11-20 22:55:57] [info]  [ 7384] Service started in 3544 ms.
+[2017-11-20 22:56:33] [info]  [ 7600] Stopping service...
+[2017-11-20 22:56:34] [info]  [ 7600] Service stop thread completed.
+[2017-11-20 22:56:34] [info]  [ 7112] Run service finished.
+[2017-11-20 22:56:35] [info]  [ 7112] Commons Daemon procrun finished
